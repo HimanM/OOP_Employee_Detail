@@ -1,4 +1,4 @@
-#####**Employee Management System User Manual**
+# **Employee Management System User Manual**
 
 ## **Introduction**
 
@@ -81,7 +81,7 @@ Both HR and Admins can you this method to log into their corresponding interface
 5. If the record is successfully inserted into the database, a message will appear indicating the success.
 
 ![Shape1](RackMultipart20231230-1-vn3l0v_html_e0d7f4e5489d307e.gif)
-##### **Source Code**
+# **Source Code**
 
 The source code is divided into several classes, each responsible for a specific aspect of the Employee Management System.
 
