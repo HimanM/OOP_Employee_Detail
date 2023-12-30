@@ -1,0 +1,28 @@
+Pasan---123456789---Senior Innovation Specialist---Research and Development
+Anike---123458989---Innovation Specialist---Research and Development
+Brandon---873925816---Customer Service Representative---Sales and Marketing
+Chitra---916835024---Financial Analyst---Finance and Accounting
+Daniel---128345906---Software Engineer---Software Development
+Eva---832704561---Graphic Designer---Marketing and Design
+Farhan---907823415---Human Resources Officer---Human Resources
+Gabriela---715908324---Business Development Manager---Business Development
+Hassan---180937562---Marketing Specialist---Marketing and Design
+Isabella---708123495---Project Manager---Project Management
+James---920384756---Quality Assurance Engineer---Quality Assurance
+Keira---758029301---Content Writer---Marketing and Design
+Liam---740912835---Network Administrator---Information Technology
+Maria---432759016---Sales Representative---Sales and Marketing
+Noah---109283745---Business Analyst---Business Development
+Olivia---849102375---Technical Support Specialist---Information Technology
+Peter---873109245---Research Scientist---Research and Development
+Quiana---982103476---Legal Assistant---Legal Department
+Rahul---897102934---Accountant---Finance and Accounting
+Sarah---237489103---Administrative Assistant---Human Resources
+Thomas---872039415---Security Guard---Security and Facilities
+Umaima---918203745---Warehouse Manager---Operations
+Vanessa---980347561---Social Media Manager---Marketing and Design
+William---938102745---Operations Manager---Operations
+Xavier---890237456---Web Developer---Software Development
+Yara---742981035---Public Relations Specialist---Public Relations
+Zain---918302475---Security Guard---Security and Facilities
+test---test4---Senior Innovation Specialist---Research and Development
