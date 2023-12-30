@@ -1,4 +1,87 @@
-### **Source Code**
+#####**Employee Management System User Manual**
+
+## **Introduction**
+
+The Employee Management System is a software application designed to manage employee details efficiently. This system provides functionalities to add, search, and view employee information.
+
+## **System Requirements**
+
+Java Runtime Environment (JRE)
+
+Operating System: Windows, macOS, or Linux
+
+## **Installation**
+
+Download: Obtain the application package from [GitHub](https://github.com/HimanM/OOP_Employee_Detail).
+
+Run Application: Execute the JAR file or run the application using the command line.
+
+Usage: Follow the instructions below to utilize the functionalities.
+
+## **Login**
+
+Username: Enter your username to access the system.
+
+Password: Provide your password to log in securely.
+
+Access: After successful authentication, you'll gain access to the functionalities depending on the role.
+
+## **Functionality Overview**
+
+### **Login Authentication**
+
+- Enter your registered username and password to log in securely.
+- Incorrect credentials will prompt an error message. Re-enter valid details for access.
+
+1. Enter the username and password.
+2. Click log in.
+
+Both HR and Admins can you this method to log into their corresponding interfaces. System will automatically determine the role based on the username.
+
+### **HR Functions (HR interface)**
+
+1. Click on Add Departments/ Designations button to access the interface to add designations and departments.
+2. Click Add Employee button to access the interface to add employees.
+3. Click Search Employee Details to access the interface to search for employee records.
+4. Click log out to log out and go back to login interface.
+
+### **1. Add Departments and Designations.**
+
+1. Use the text fields to insert designations and departments.
+2. Click Add button to insert values into the database (text files).
+3. Error messages will appear if the value already exists.
+4. If the values are written successfully, success indicator message will appear.
+
+### **2. Add Employees**
+
+1. Use the text fields to insert employee name and EPF numbers.
+2. Use the combo boxes to select the employee designation and department.
+3. Click Add button to insert values into the database (text files).
+4. Error messages will appear if the fields are empty.
+5. If the record is successfully inserted into the database, a message will appear indicating the success.
+
+### **3. Search Employees**
+
+1. Use the text fields and combo boxes to insert employee name, EPF numbers, designation, and department. (System has the ability to choose only one criteria to search)
+2. Click search button.
+3. Error messages will appear if the system can't find any results, or no data inserted to search.
+4. If the record is successfully found, A table will appear depicting the full details about the employee.
+
+### **Administrator Functions (Admin Interface)**
+
+1. Select "Create HR Account" to access the HR account creating interface.
+2. Select "Back" to go back to login interface.
+
+### **1. Create HR Accounts**
+
+1. Use the text fields to insert HR username and passwords.
+2. Use the radio buttons to select the role (HR manager or HR assistant).
+3. Click Add button to insert values into the database (text files).
+4. Error messages will appear if the fields are empty, password mismatch, or the username already exists.
+5. If the record is successfully inserted into the database, a message will appear indicating the success.
+
+![Shape1](RackMultipart20231230-1-vn3l0v_html_e0d7f4e5489d307e.gif)
+##### **Source Code**
 
 The source code is divided into several classes, each responsible for a specific aspect of the Employee Management System.
 
